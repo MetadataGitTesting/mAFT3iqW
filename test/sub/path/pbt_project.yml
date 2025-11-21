@@ -1,0 +1,50 @@
+name: estell.walsh
+description: discrete
+version: 0.0.1
+author: it2n35e1.v85bsbox@erffnyn4.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: estellwalsh
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2025-11-21 23:12:49'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2025-11-21 23:12:49'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2025-11-21T23:12:49.918362Z'
+  name: plibMaven
+  version: 8.16.0-SNAPSHOT
+  id: '1818411832'
+  createdAt: '2025-11-21T23:12:49.918362Z'
+  type: plibMaven
+projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
+projectConfigurations: {}
